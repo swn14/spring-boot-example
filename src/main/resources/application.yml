@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5332/customer
+    url: jdbc:postgresql://localhost:5332/sessions
     username: dbuser
     password: password
   jpa:
@@ -16,3 +16,8 @@ spring:
     show-sql: true
   main:
     web-application-type: servlet
+
+app:
+  sabrePseudoCityCode: W6J2
+  sabreUsername: 7971
+  sabrePassword: AOK2233

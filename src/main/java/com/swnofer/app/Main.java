@@ -1,4 +1,4 @@
-package com.swnofer;
+package com.swnofer.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
